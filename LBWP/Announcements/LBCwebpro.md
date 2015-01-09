@@ -2,19 +2,17 @@ The __Long Beach Web Professionals__ group meets monthly to showcase our cool te
 
 ### TALKS THIS MONTH
 
-* Frank Anderson - Drupal as a backend, PHP, Frontend frameworks
+* Frank Anderson - How to not use Drupal + custom PHP = Highly available, Highly customizable, and Fast!
 * Chris Charlton - Yeoman (Yo + Grunt + Bower = fast!)
 
 
 
 
 >  MAIN PRESENTATION  
->  Fullstack Drupal ||  Presentation by [Frank Anderson](http://twitter.com/frobdfas).  
->
->  Discover how Frank and the [KWALL team](http://www.kwallcompany.com) built a website using [{{ Drupal }}](http://drupal.org) in part of a web application for what it does best, but then utilized other Web standards such as [{{ PHP }}](http://php.net), Web Services, HTML5, CSS, and Javascript frameworks such as Angular to customize a world class solution on a recent project.  
->  [About Frank Anderson](https://www.drupal.org/u/frob).
+>  How to not use Drupal ||  Presentation by [Frank Anderson](http://twitter.com/frobdfas  
 
----
+>  [{{ Drupal }}](http://drupal.org) does many things really well, however, it has real-world limitations. This is a talk on using headless Drupal without a REST service or fancy new JS tech. In other words, this is not the typical Headless Drupal Talk thats made the rounds in the last year. Come learn how Frank and the  [KWALL team](http://www.kwallcompany.com) utilized Drupal for what it does well (complex content workflows, roles, user access permissions, etc.) and then coupled it with a custom headless solution in order to create website less-characteristic of Drupal: _highly available, highly customizable, and an extremely fast front-end._ This was accomplished by replacing the user facing Drupal front-end with a custom [{{ PHP }}](http://php.net) website which displays content that is managed with Drupal.  
+>  [About Frank Anderson](https://www.drupal.org/u/frob).  
 
 >  THUNDER TALK  
 >  Faster Web App Building with Yeoman || Presentation by [Chris Charlton](http://twitter.com/charltonweb).  
